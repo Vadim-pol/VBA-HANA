@@ -1,2 +1,2 @@
 # VBA-HANA
-Will be provided later 
+Store Excel grid data in HANA
