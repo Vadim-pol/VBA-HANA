@@ -7,6 +7,7 @@ This project is a VBA script designed to store data from an Excel grid into SAP 
 - Installation
 - Usage
 - Contributing
+- Parameters
 
 ## Installation
 You must meet below prerequisites:
@@ -18,5 +19,9 @@ You must meet below prerequisites:
 ## Usage
 Simply copy VBA script in your workbook and run it from the Button or directly 
 
-## Contributing
-Guidelines for contributing to your project.
+## Parameters
+Below parameters in VBA script have to be replaced according to your system details. 
+More information can be found in script file
+SERVER:PORT
+DOMAIN
+YOUR_SCHEMA
