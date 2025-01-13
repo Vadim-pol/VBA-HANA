@@ -1,30 +1,23 @@
 # VBA-HANA
 Store Excel grid data in HANA
+
 ## Description
-A brief description of what your project does and its purpose.
+This project is a VBA script designed to store data from an Excel grid into SAP HANA. The script ensures data security by utilizing a Kerberos connection, which respects security concerns and provides a secure method for data transfer
 
 ## Table of Contents
 - Installation
 - Usage
 - Contributing
-- License
-- Contact Information
-- Acknowledgments
 
 ## Installation
-Instructions on how to install and set up your project.
+You must meet below prerequisites:
+- HANA ODBC driver installed on your local machine
+- HANA User with Kerberos ID
+- Insert privileges for your user
+- Active SNC 
 
 ## Usage
-Examples of how to use your project, including code snippets.
+Simply copy VBA script in your workbook and run it from the Button or directly 
 
 ## Contributing
 Guidelines for contributing to your project.
-
-## License
-Information about the project's license.
-
-## Contact Information
-How to reach the project maintainers.
-
-## Acknowledgments
-Credits to those who have contributed to the project.
