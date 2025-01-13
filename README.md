@@ -1,5 +1,4 @@
 # VBA-HANA
-Store Excel grid data in HANA
 
 ## Description
 This project is a VBA script designed to store data from an Excel grid into SAP HANA. The script ensures data security by utilizing a Kerberos connection, which respects security concerns and provides a secure method for data transfer
